@@ -24,7 +24,7 @@ This is a collection of cool wallpapers from wallhaven and other sources.
 
 ## Game Screenshots:
 
-![Demo](./game-screenshots/assasins-creed-shadows.jpg)
+![Demo](./game-screenshots/assassins-creed-shadows.jpg)
 
 ![Demo](./game-screenshots/hitman-world-of-assassinations.jpg)
 
@@ -52,7 +52,7 @@ This is a collection of cool wallpapers from wallhaven and other sources.
 
 ## Minimalistic:
 
-![Demo](./minimalistic/the-end-of-wallhaven)
+![Demo](./minimalistic/the-end-of-wallhaven.png)
 
 
 ## Photography:
@@ -66,4 +66,4 @@ This is a collection of cool wallpapers from wallhaven and other sources.
 
 ![Demo](./renders/capsules.png)
 
-![Demo](ppls-in-labirint.png)
+![Demo](./renders/ppls-in-labirint.png)
